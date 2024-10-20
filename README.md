@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sourabh7204" target="blank"><img src="https://img.shields.io/twitter/follow/sourabh7204?logo=twitter&style=for-the-badge" alt="sourabh7204" /></a> </p>
 
-- 🌱 I’m currently learning **HTHTML, CSS, JavaScript, and Node.js.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Node.js.**
 
 - 📫 How to reach me **sourabh722004@gmail.com**
 
