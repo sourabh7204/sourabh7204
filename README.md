@@ -16,8 +16,8 @@
 <p align="left">
 <a href="https://twitter.com/sourabh7204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourabh7204" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sourabh vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh vishwakarma" height="30" width="40" /></a>
-<a href="https://fb.com/sourabh vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourabh vishwakarma" height="30" width="40" /></a>
-<a href="https://instagram.com/sourabh_vishwakarma07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourabh_vishwakarma07" height="30" width="40" /></a>
+
+
 <a href="https://www.hackerrank.com/@1hk23is108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@1hk23is108" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sourabh7204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabh7204" height="30" width="40" /></a>
 </p>
