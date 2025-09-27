@@ -1,5 +1,3 @@
-<!-- Hero Banner -->
-<img width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="banner">
 
 <!-- Hero Banner -->
 <img width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="banner">
@@ -55,11 +53,14 @@
 ## 🚀 Featured Project  
 <p align="center">
   <a href="https://portfolio-five-blond-26.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐 My Portfolio Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-Showcasing **projects, skills, and achievements** with a clean, responsive design.
+<p align="center">
+  Showcasing my **projects, technical skills, and achievements** with a  
+  clean, responsive design built using **React, Node.js, and modern UI frameworks**.
+</p>
 
 ---
 
@@ -94,4 +95,4 @@ Showcasing **projects, skills, and achievements** with a clean, responsive desig
 ---
 
 ## 💡 Final Note  
-✨ _“Building scalable apps, one stack at a time.”_ ✨  
+✨ “Transforming ideas into impactful digital experiences through full-stack innovation.” ✨
