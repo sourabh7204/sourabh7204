@@ -1,5 +1,6 @@
 <!-- Hero Banner -->
-<img width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="banner">
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" alt="programming-banner">
+
 
 <h1 align="center">Hi 👋, I'm Sourabh Vishwakarma</h1>
 <h3 align="center">💻 Full-Stack Developer | MERN Stack | Modern Web Technologies | Java Enthusiast</h3>
