@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://portfolio-five-blond-26.vercel.app/"><img src="https://img.shields.io/badge/🌐 Visit My Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:sourabh722004@gmail.com"><img src="https://img.shields.io/badge/📧 Contact Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=sourabh7204&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
