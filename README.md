@@ -1,4 +1,25 @@
-<!-- Hero Banner --> <img width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="banner"> <h1 align="center">Hi 👋, I'm Sourabh Vishwakarma</h1> <h3 align="center">💻 Full-Stack Developer | MERN Stack | Modern Web | Java & Backend Engineering</h3> <p align="center"> <a href="https://portfolio-five-blond-26.vercel.app/"><img src="https://img.shields.io/badge/🌐 Visit My Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="mailto:sourabh722004@gmail.com"><img src="https://img.shields.io/badge/📧 Contact Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> <br/><br/> <img src="https://komarev.com/ghpvc/?username=sourabh7204&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<!-- Hero Banner -->
+<img width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="banner">
+
+<h1 align="center">Hi 👋, I'm Sourabh Vishwakarma</h1>
+
+<h3 align="center">💻 Full-Stack Developer | MERN Stack | Modern Web | Java & Backend Engineering</h3>
+
+<h4 align="center">I am from India 🇮🇳</h4>
+
+<p align="center">
+  <a href="https://portfolio-five-blond-26.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="mailto:sourabh722004@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Contact Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=sourabh7204&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 👨‍💻 About Me
 
 A developer who enjoys crafting clean architectures, building scalable backend systems, and designing smooth, modern UIs.
