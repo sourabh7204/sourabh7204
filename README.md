@@ -5,7 +5,9 @@
 
 <h3 align="center">💻 Full-Stack Developer | MERN Stack | Modern Web | Java & Backend Engineering</h3>
 
-<h4 align="center">I am from India 🇮🇳</h4>
+<h4 align="center">I am from India 🇮🇳</h4> <p align="center">
+  <img src="https://flagcdn.com/w320/in.png" width="40" alt="India Flag">
+</p>
 
 <p align="center">
   <a href="https://portfolio-five-blond-26.vercel.app/">
