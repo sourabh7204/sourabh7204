@@ -19,7 +19,7 @@
   </a>
   
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=sourabh7204&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+ <center> <img src="https://komarev.com/ghpvc/?username=sourabh7204&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /></center>
 </p>
 
 👨‍💻 About Me
