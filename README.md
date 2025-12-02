@@ -77,17 +77,16 @@ A modern personal portfolio showcasing my skills and projects.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh7204&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=sourabh7204&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
