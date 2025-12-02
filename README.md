@@ -30,7 +30,7 @@ Currently learning & focusing on:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/1hk23is108">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://leetcode.com/sourabh7204">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -87,6 +87,7 @@ A modern personal portfolio showcasing my skills and projects.
 <p align="center">
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight" />
 </p>
+
 ---
 
 ## 📈 Contribution Graph
