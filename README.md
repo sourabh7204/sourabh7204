@@ -30,7 +30,7 @@ Currently learning & focusing on:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/1hk23is108">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://leetcode.com/sourabh7204">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -75,31 +75,37 @@ A modern personal portfolio showcasing my skills and projects.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (stable mirrors)
+
+<!-- Streak / contribution streak - stable mirror -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sourabh7204&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=sourabh7204&theme=tokyonight&hide_border=true&v=1" alt="GitHub streak stats" />
 </p>
 
+<!-- GitHub overall stats - alternate mirror -->
 <p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub stats" />
 </p>
 
+<!-- Top languages (compact) - alternate mirror -->
 <p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top languages" />
 </p>
+
+> If any of these images ever fail again, increment the `v` query param (e.g. `&v=2`) — that forces GitHub to fetch a fresh image.
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh7204&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh7204&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
 </p>
 
 ---
 
 ## ✨ Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day"/>
 </p>
 
 ---
