@@ -84,15 +84,15 @@ A modern personal portfolio showcasing my skills and projects.
 
 <!-- GitHub overall stats - alternate mirror -->
 <p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub stats" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub stats" />
 </p>
 
 <!-- Top languages (compact) - alternate mirror -->
 <p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top languages" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top languages" />
 </p>
 
-> If any of these images ever fail again, increment the `v` query param (e.g. `&v=2`) — that forces GitHub to fetch a fresh image.
+
 
 ---
 
