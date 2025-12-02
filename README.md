@@ -4,20 +4,16 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Sourabh Vishwakarma</span></h1>
-<h3 align="center">MERN Stack Developer | Learning DSA with Java | B.Tech IT Student</h3>
+<h3 align="center">MERN Stack Developer | Java (DSA) Learner | B.Tech IT Student</h3>
 
 ---
 
-## 🌱 About Me
-I’m an enthusiastic developer passionate about building modern, responsive, and scalable web applications.
+## 🚀 About Me
+I'm a passionate developer focused on building modern, scalable, and meaningful digital products.
 
-Currently learning & focusing on:
-- 🚀 MERN Stack (MongoDB, Express, React, Node.js)
-- 🧠 Data Structures & Algorithms (using Java)
-- 🎨 Clean UI & frontend development
-- ⚙️ Backend logic, APIs & real-world problem solving
+I enjoy working across the entire development lifecycle — from designing intuitive UIs to crafting backend logic and APIs.
 
-🎯 **Goal:** Become a skilled full-stack engineer and build impactful digital products.
+🎯 **Goal:** Become a highly skilled full-stack engineer and contribute to impactful projects.
 
 ---
 
@@ -40,32 +36,34 @@ Currently learning & focusing on:
 ---
 
 ## 🛠️ Tech Stack
-
-### 🚀 MERN Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
-
-### 🎨 Frontend Development
-<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-</p>
-
-### 🧠 DSA & Programming
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,postman" />
 </p>
 
 ---
 
+## 📊 **Real-Time Tech Usage (Generated From Your Codebase)**  
+### 🔹 Top Languages (from your repositories)
+<p align="center">
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🔹 Detailed Language Breakdown (GitHub Metrics)
+> This section updates automatically & shows real code percentage from all repos.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sourabh7204/sourabh7204/main/github-metrics.svg" />
+</p>
+
+👉 If this metric doesn’t appear yet, I’ll show you how to enable it.
+
+---
+
 ## 📌 Featured Project  
-### 🌐 **Portfolio Website**  
-A modern personal portfolio showcasing my skills and projects.
+### 🌐 **Portfolio Website**
+A modern, elegant portfolio built using React & Tailwind.
 
 <p align="center">
   <a href="https://portfolio-five-blond-26.vercel.app/">
@@ -75,41 +73,30 @@ A modern personal portfolio showcasing my skills and projects.
 
 ---
 
-## 📊 GitHub Stats (stable mirrors)
-
-<!-- Streak / contribution streak - stable mirror -->
+## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sourabh7204&theme=tokyonight&hide_border=true&v=1" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=sourabh7204&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- GitHub overall stats - alternate mirror -->
 <p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub stats" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
-<!-- Top languages (compact) - alternate mirror -->
-<p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top languages" />
-</p>
-
-
 
 ---
 
-## 📈 Contribution Graph
+## 🗺️ Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh7204&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh7204&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## ✨ Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-## 🙏 Thanks for Visiting!
-Feel free to explore my repositories and connect with me.  
-Let’s learn, build, and grow together! 🚀
+## 🙌 Thanks for Visiting!
+Let’s connect, collaborate, and build something amazing! 🚀
