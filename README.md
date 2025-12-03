@@ -17,7 +17,7 @@ Currently enhancing my expertise in **MERN**, **system design**, and **DSA using
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,ts,bootstrap,tailwind,java,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,bootstrap,tailwind,java,git,github,vscode,postman" />
 </p>
 
 ---
