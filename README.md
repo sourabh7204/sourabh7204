@@ -3,31 +3,25 @@
   <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#00bfff;">Sourabh Vishwakarma</span></h1>
-<h3 align="center">MERN Stack Developer · Java (DSA) · B.Tech IT</h3>
+<!-- New Header -->
+<h1 align="center">👨‍💻 Sourabh Vishwakarma</h1>
+<h3 align="center">Full Stack Developer (MERN) · Java & DSA Enthusiast · B.Tech IT</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourabh7204&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
 
 ---
 
 ## About Me
-I build modern, scalable web applications with a focus on clean design, performance, and real-world problem solving.  
-Currently deepening skills in full-stack development and data structures using Java.
+I build modern, scalable web applications with a focus on clean design, performance, and solving real-world problems.  
+Currently improving skills in full-stack development and Data Structures using Java.
 
 ---
 
 ## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,bootstrap,tailwind,java,git,github,vscode,postman" />
-</p>
-
----
-
-## Languages & Code Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sourabh7204/sourabh7204/main/github-metrics.svg" />
 </p>
 
 ---
@@ -48,13 +42,6 @@ Currently deepening skills in full-stack development and data structures using J
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh7204&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
