@@ -26,6 +26,19 @@ Currently improving skills in full-stack development and Data Structures using J
 
 ---
 
+## Languages & Code Stats
+<p align="center">
+  <!-- Top languages (stable instance) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Optional: custom metrics.svg from your repo (keeps original) -->
+  <img src="https://raw.githubusercontent.com/sourabh7204/sourabh7204/main/github-metrics.svg" />
+</p>
+
+---
+
 ## Featured Project
 <p align="center">
   <a href="https://portfolio-five-blond-26.vercel.app/">
@@ -37,11 +50,21 @@ Currently improving skills in full-stack development and Data Structures using J
 
 ## GitHub Stats
 <p align="center">
+  <!-- Streak (stable instance) -->
   <img src="https://streak-stats.demolab.com?user=sourabh7204&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
+  <!-- Profile stats (stable instance) -->
   <img src="https://github-readme-stats.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Activity Graph
+<p align="center">
+  <!-- Contribution / activity graph (stable instance) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh7204&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
