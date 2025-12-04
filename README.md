@@ -54,16 +54,10 @@ Currently improving skills in full-stack development and Data Structures using J
   <img src="https://streak-stats.demolab.com?user=sourabh7204&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <!-- Profile stats (stable instance) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh7204&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## Activity Graph
 <p align="center">
-  <!-- Contribution / activity graph (stable instance) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh7204&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
 </p>
 
