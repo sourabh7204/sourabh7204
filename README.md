@@ -26,19 +26,6 @@ Currently improving skills in full-stack development and Data Structures using J
 
 ---
 
-## Languages & Code Stats
-<p align="center">
-  <!-- Top languages (stable instance) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh7204&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Optional: custom metrics.svg from your repo (keeps original) -->
-  <img src="https://raw.githubusercontent.com/sourabh7204/sourabh7204/main/github-metrics.svg" />
-</p>
-
----
-
 ## Featured Project
 <p align="center">
   <a href="https://portfolio-five-blond-26.vercel.app/">
